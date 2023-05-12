@@ -1,4 +1,5 @@
-Flask==2.3.2
+Flask
 Flask-SocketIO==5.3.4
 gevent-websocket==0.10.1
 gunicorn
+redis
